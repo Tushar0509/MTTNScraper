@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MTTNScraper/Pods-MTTNScraper-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SwiftSoup/SwiftSoup.framework
+${BUILT_PRODUCTS_DIR}/WKZombie/WKZombie.framework
+${BUILT_PRODUCTS_DIR}/hpple/hpple.framework
